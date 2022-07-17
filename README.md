@@ -1,1 +1,1 @@
-## PFA Diabetic-Recommendation-System
+## Diabetic-Recommendation-System
